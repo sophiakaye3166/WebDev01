@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/Me.jpg"
+profile_picture = "WebDevLab01/Images/Me.jpg"
 about_me = "Hi! My name is Sophia Kaye. I am a student at Georgia Tech majoring in business."
 
 
