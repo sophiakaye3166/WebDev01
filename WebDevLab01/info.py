@@ -68,7 +68,7 @@ spoken_data = {
     "French": "Beginner",
 }
 leadership_data = {
-    "Co-Captain of the Varsity Swim Team": (["- Senior year Captain, State Swimming Tournament competitor in breaststroke"],"Images/Captain.jpeg"),
+    "Co-Captain of the Varsity Swim Team": (["- Senior year Captain, State Swimming Tournament competitor in breaststroke"],"WebDevLab01/Images/Captain.jpeg"),
 
 }
 activity_data={
