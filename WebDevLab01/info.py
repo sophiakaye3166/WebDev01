@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/Me.jpg"
+profile_picture = "../Images/Me.jpg"
 about_me = "Hi! My name is Sophia Kaye. I am a student at Georgia Tech majoring in business."
 
 
@@ -32,10 +32,10 @@ course_data = {
     }
 experience_data = {
     "Business Analyst": (["- Compiled cost data for a multi-million USDA grant application that was accepted and successfully funded ",
-                                                                          "- Organized “grand opening” operations and helped create marketing materials for several meat product lines", "- Created and updated discounted cash flows (DCF) and other relevant financial models using Microsoft Excel"],"Images/Meat.jpg"),
+                                                                          "- Organized “grand opening” operations and helped create marketing materials for several meat product lines", "- Created and updated discounted cash flows (DCF) and other relevant financial models using Microsoft Excel"],"../Images/Meat.jpg"),
     "Swim Instructor":(["- Learn-to-swim instruction for toddlers-adults, teaching technique, stamina improvement, confidence, & safety ",
-                                                           "- Personally developed individualized and goal-oriented lesson plans, utilizing modern progress-tracking tools"],"Images/Swimming.jpg"),
-    "Founder of Bipoc Solidarity":(["- Organization focused on resource allocation & strategic partnerships to support the BIPOC debate community"],"Images/BIPOC.jpeg")
+                                                           "- Personally developed individualized and goal-oriented lesson plans, utilizing modern progress-tracking tools"],"../Images/Swimming.jpg"),
+    "Founder of Bipoc Solidarity":(["- Organization focused on resource allocation & strategic partnerships to support the BIPOC debate community"],"../Images/BIPOC.jpeg")
         
 }
 
@@ -68,7 +68,7 @@ spoken_data = {
     "French": "Beginner",
 }
 leadership_data = {
-    "Co-Captain of the Varsity Swim Team": (["- Senior year Captain, State Swimming Tournament competitor in breaststroke"],"Images/Captain.jpeg"),
+    "Co-Captain of the Varsity Swim Team": (["- Senior year Captain, State Swimming Tournament competitor in breaststroke"],"../Images/Captain.jpeg"),
 
 }
 activity_data={
