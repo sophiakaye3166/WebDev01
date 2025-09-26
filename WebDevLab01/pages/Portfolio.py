@@ -47,7 +47,7 @@ education_section(info.education_data, info.course_data)
 #Professional Experience
 def experience_section(experience_data):
     st.header("Professional Experience")
-    for job_title,(job_description,image)in experience_data.items():
+    for job_title,(WebDevLab01/Images/BIPOC.jpeg,image)in experience_data.items():
         expander = st.expander(f"{job_title}")
         expander.image(image, width=250)
         for bullet in job_description:
