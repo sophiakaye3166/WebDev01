@@ -47,7 +47,7 @@ education_section(info.education_data, info.course_data)
 #Professional Experience
 def experience_section(experience_data):
     st.header("Professional Experience")
-    for job_title,(WebDevLab01/Images/BIPOC.jpeg,image)in experience_data.items():
+    for job_title,(job_description,image)in experience_data.items():
         expander = st.expander(f"{job_title}")
         expander.image(image, width=250)
         for bullet in job_description:
@@ -87,7 +87,7 @@ def activities_section(leadership_data, activity_data):
     tab1, tab2 = st.tabs(["Leadership", "Community Service"])
     with tab1:
         st.subheader("Leadership")
-        for title, (details,WebDevLab01/Images/Captain.jpeg) in leadership_data.items():
+        for title, (details,image) in leadership_data.items():
             expander = st.expander(f"{title}")
             expander.image(image, width=250)
             for bullet in details:
