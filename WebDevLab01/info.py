@@ -34,7 +34,7 @@ experience_data = {
     "Business Analyst": (["- Compiled cost data for a multi-million USDA grant application that was accepted and successfully funded ",
                                                                           "- Organized “grand opening” operations and helped create marketing materials for several meat product lines", "- Created and updated discounted cash flows (DCF) and other relevant financial models using Microsoft Excel"],"WebDevLab01/Images/Meat.jpg"),
     "Swim Instructor":(["- Learn-to-swim instruction for toddlers-adults, teaching technique, stamina improvement, confidence, & safety ",
-                                                           "- Personally developed individualized and goal-oriented lesson plans, utilizing modern progress-tracking tools"],"Images/Swimming.jpg"),
+                                                           "- Personally developed individualized and goal-oriented lesson plans, utilizing modern progress-tracking tools"],"WebDevLab01/Images/Swimming.jpg"),
     "Founder of Bipoc Solidarity":(["- Organization focused on resource allocation & strategic partnerships to support the BIPOC debate community"],"WebDevLab01/Images/BIPOC.jpeg")
         
 }
