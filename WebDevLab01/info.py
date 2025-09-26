@@ -35,7 +35,7 @@ experience_data = {
                                                                           "- Organized “grand opening” operations and helped create marketing materials for several meat product lines", "- Created and updated discounted cash flows (DCF) and other relevant financial models using Microsoft Excel"],"Images/Meat.jpg"),
     "Swim Instructor":(["- Learn-to-swim instruction for toddlers-adults, teaching technique, stamina improvement, confidence, & safety ",
                                                            "- Personally developed individualized and goal-oriented lesson plans, utilizing modern progress-tracking tools"],"Images/Swimming.jpg"),
-    "Founder of Bipoc Solidarity":(["- Organization focused on resource allocation & strategic partnerships to support the BIPOC debate community"],"Images/BIPOC.jpeg")
+    "Founder of Bipoc Solidarity":(["- Organization focused on resource allocation & strategic partnerships to support the BIPOC debate community"],"WebDevLab01/Images/BIPOC.jpeg")
         
 }
 
