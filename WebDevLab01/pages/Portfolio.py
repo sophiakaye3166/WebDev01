@@ -87,7 +87,7 @@ def activities_section(leadership_data, activity_data):
     tab1, tab2 = st.tabs(["Leadership", "Community Service"])
     with tab1:
         st.subheader("Leadership")
-        for title, (details,image) in leadership_data.items():
+        for title, (details,WebDevLab01/Images/Captain.jpeg) in leadership_data.items():
             expander = st.expander(f"{title}")
             expander.image(image, width=250)
             for bullet in details:
