@@ -12,7 +12,7 @@ github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 #CHANGE BELOW
-my_linkedin_url = "https://www.linkedin.com/in/[www.linkedin.com/in/sophia-kaye]/." 
+my_linkedin_url = "https://www.linkedin.com/in/sophia-kaye/" 
 my_github_url = "https://github.com/sophiakaye3166"
 my_email_address = "skaye8@gatech.edu"
 
