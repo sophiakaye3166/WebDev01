@@ -92,7 +92,7 @@ def activities_section(leadership_data, activity_data):
             expander.image(image, width=250)
             for bullet in details:
                 expander.write(bullet)
-        with tab2:
+    with tab2:
             st.subheader("Community Service")
             for title, details in activity_data.items():
                 expander = st.expander(f"{title}")
