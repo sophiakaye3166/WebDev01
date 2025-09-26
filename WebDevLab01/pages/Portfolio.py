@@ -8,7 +8,7 @@ def about_me_section():
     st.image(info.profile_picture, width = 200)
     st.write(info.about_me)
     st.write('---')
-about_me_section()
+about_me_section():
 
 #Sidebar Links
 def links_section():
